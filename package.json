@@ -20,13 +20,13 @@
   },
   "homepage": "https://github.com/donejs/bit-docs-donejs-theme#readme",
   "devDependencies": {
-    "bit-docs-generate-html": "^0.3.6",
+    "bit-docs-generate-html": "^0.4.3",
     "fs-extra": "^2.0.0",
     "q": "^1.4.1"
   },
   "dependencies": {
-    "can": "2.3.28",
+    "can": "3.5.1",
     "dotdotdot": "^1.7.0",
-    "jquery": "2.2.4"
+    "jquery": "3.2.1"
   }
 }
